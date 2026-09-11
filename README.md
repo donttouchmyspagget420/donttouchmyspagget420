@@ -22,6 +22,13 @@ Full-stack developer with a passion for building applications across multiple pl
 | [Texteditor](https://github.com/donttouchmyspagget420/Texteditor) | Simple text editor using FLTK library | C++ |
 | [todo_cli](https://github.com/donttouchmyspagget420/todo_cli) | Command-line todo list manager | C++ |
 | [weather_app](https://github.com/donttouchmyspagget420/weather_app) | Weather application | Python |
+| [finalweb2](https://github.com/donttouchmyspagget420/finalweb2) | Web development project | PHP |
+| [pp](https://github.com/donttouchmyspagget420/pp) | PHP project | PHP |
+| [Web2](https://github.com/donttouchmyspagget420/Web2) | Web development project | PHP |
+| [devilshop](https://github.com/donttouchmyspagget420/devilshop) | E-commerce web project | HTML |
+| [JenylOku](https://github.com/donttouchmyspagget420/JenylOku) | JavaScript web application | JavaScript |
+| [Prog_Avanzada_TP](https://github.com/donttouchmyspagget420/Prog_Avanzada_TP) | Advanced programming course project | Java |
+| [notalite](https://github.com/donttouchmyspagget420/notalite) | Notes application | |
 
 ## 🎯 What I'm Into
 
