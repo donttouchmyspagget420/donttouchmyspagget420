@@ -28,7 +28,7 @@ Full-stack developer with a passion for building applications across multiple pl
 | [devilshop](https://github.com/donttouchmyspagget420/devilshop) | E-commerce web project | HTML |
 | [JenylOku](https://github.com/donttouchmyspagget420/JenylOku) | JavaScript web application | JavaScript |
 | [Prog_Avanzada_TP](https://github.com/donttouchmyspagget420/Prog_Avanzada_TP) | Advanced programming course project | Java |
-| [notalite](https://github.com/donttouchmyspagget420/notalite) | Notes application | JavasCript,Python |
+| [notalite](https://github.com/donttouchmyspagget420/notalite) | Notes application | JavasScript,Python |
 
 ## 🎯 What I'm Into
 
