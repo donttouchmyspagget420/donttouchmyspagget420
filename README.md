@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey, I'm dont
 
-<!--
-**donttouchmyspagget420/donttouchmyspagget420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer with a passion for building applications across multiple platforms and languages. I enjoy working with both low-level systems programming and web technologies.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:**
+- **C++** - Systems programming, CLI tools, HTTP servers
+- **Python** - Data processing, utilities
+- **PHP** - Web development
+- **JavaScript** - Web applications
+- **Java** - Object-oriented programming
+- **Lua** - Configuration & scripting (Neovim, Hyprland)
+- **HTML/CSS** - Frontend development
+
+## 💼 Featured Projects
+
+| Project | Description | Language |
+|---------|-------------|----------|
+| [Http-server](https://github.com/donttouchmyspagget420/Http-server) | Barebones HTTP server with cool JS animation | C++ |
+| [chatApp](https://github.com/donttouchmyspagget420/chatApp) | Real-time chat application | C++ |
+| [Texteditor](https://github.com/donttouchmyspagget420/Texteditor) | Simple text editor using FLTK library | C++ |
+| [todo_cli](https://github.com/donttouchmyspagget420/todo_cli) | Command-line todo list manager | C++ |
+| [weather_app](https://github.com/donttouchmyspagget420/weather_app) | Weather application | Python |
+
+## 🎯 What I'm Into
+
+- Building CLI tools and utilities in C++
+- Configuring development environments (Neovim, Linux)
+- Full-stack web development with PHP & JavaScript
+- System programming and network applications
+
+---
+
+*Feel free to explore my repositories and reach out for collaboration!*
